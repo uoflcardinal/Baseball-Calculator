@@ -1,0 +1,6 @@
+c:\users\paperspace\documents\visual studio 2015\Projects\Lab 8\bin\Debug\Lab 8.exe.config
+C:\Users\paperspace\Documents\Visual Studio 2015\Projects\Lab 8\bin\Debug\Lab 8.exe
+C:\Users\paperspace\Documents\Visual Studio 2015\Projects\Lab 8\bin\Debug\Lab 8.pdb
+C:\Users\paperspace\Documents\Visual Studio 2015\Projects\Lab 8\obj\Debug\Lab 8.csprojResolveAssemblyReference.cache
+C:\Users\paperspace\Documents\Visual Studio 2015\Projects\Lab 8\obj\Debug\Lab 8.exe
+C:\Users\paperspace\Documents\Visual Studio 2015\Projects\Lab 8\obj\Debug\Lab 8.pdb
